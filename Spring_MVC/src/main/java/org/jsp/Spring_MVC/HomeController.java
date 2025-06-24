@@ -16,7 +16,7 @@ public class HomeController {
 	@ResponseBody
 	@RequestMapping("/save")
 	public String save() {
-		return "Successfully added details";
+		return "Successfully Added Employee Details";
 	}
 
 }
